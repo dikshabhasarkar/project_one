@@ -91,3 +91,11 @@ def restore_all(request):
         book.obj.is_deleted = 'N'
         book.obj.save()
     return redirect('welcome')
+
+
+
+
+    adsfdsfvdv
+    sdsdsfs124324324
+    13243253
+    

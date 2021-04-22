@@ -34,3 +34,6 @@ class Book(models.Model):
 
 # appname= modelname= small case
 #create table book_book (id int unique Auto_increment,name varchar(100),author(100),qty int, price float)
+
+
+adsadd
