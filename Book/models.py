@@ -35,7 +35,10 @@ class Book(models.Model):
 # appname= modelname= small case
 #create table book_book (id int unique Auto_increment,name varchar(100),author(100),qty int, price float)
 
-Hi Hello!!!
 
-
-Good Night
+def my_gen():
+    yield 1
+    yield 2
+    yield 3
+    yield 4
+    yield 5

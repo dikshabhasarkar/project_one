@@ -95,7 +95,11 @@ def restore_all(request):
 
 
 
-    adsfdsfvdv
-    sdsdsfs124324324
-    13243253
+
+class stud():
+    def __init__(self,name)
+        self.name = Name
+
+s1 = student(name'abc')
+
     
