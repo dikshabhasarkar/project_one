@@ -101,5 +101,7 @@ class stud():
         self.name = Name
 
 s1 = student(name'abc')
+s2 = student(name'xyz')
+s3 = student(name'pqr')
 
     
